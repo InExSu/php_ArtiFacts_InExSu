@@ -1,3 +1,5 @@
+<?php
+
 function array2D_Columns_Delete(array &$arr2D, array $arr1d_columns)
 {   // удалить столбцы в массиве 2мерном из гугл таблиц по номерам
     // массивы могут быть не строгими
